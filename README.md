@@ -2,7 +2,7 @@
 
 # $A^2DM$: Enhancing EEG artifact removal by fusing artifact representation into the time-frequency domain
 
-## This is the Official PyTorch implementation of our Cognitive Computation paper "$A^2DM$: Enhancing EEG artifact removal by fusing artifact representation into the time-frequency domain".
+## This is the Official PyTorch implementation of our Cognitive Computation paper " $A^2DM$: Enhancing EEG artifact removal by fusing artifact representation into the time-frequency domain ".
 
 ![Alt text](a2dm.png)
 
