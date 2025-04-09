@@ -17,6 +17,8 @@ In our model, we first construct a pretraining dataset to generate artifact repr
 
 **We recommend retraining the artifact representation module according to your specific task.**
 
+The data and model files are available in the `Releases` section and can be accessed directly.
+
 ### Generate Artifact Removal Dataset
 
 Similarly, we use the code from https://github.com/ncclabsustech/EEGdenoiseNet to generate the artifact-removed dataset for training the model (the input is EEG segments with artifacts, and the output is the artifact-removed EEG segments).
